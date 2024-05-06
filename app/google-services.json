@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737062754054",
+    "project_id": "cricket-live-streaming-7e50e",
+    "storage_bucket": "cricket-live-streaming-7e50e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737062754054:android:35c1840826ac9b47a1b087",
+        "android_client_info": {
+          "package_name": "com.programmerpro.cricketlivestreaming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO-ZzAjg8eDk4r4M4m35GY6m-RypiuBBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
