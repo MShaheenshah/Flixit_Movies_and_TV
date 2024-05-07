@@ -28,7 +28,7 @@ import dagger.hilt.components.SingletonComponent
 
 @HiltAndroidApp
 class FlixitApplication : Application(){
-    private val ONESIGNAL_APP_ID = "your one signal id"
+    private val ONESIGNAL_APP_ID = "enter your one signal id"
     override fun onCreate() {
         super.onCreate()
 
